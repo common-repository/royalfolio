@@ -1,0 +1,30 @@
+.royalfolio-meta-wrapper {
+    margin-top: 15px !important;
+}
+
+.royalfolio-form-group {
+    margin-bottom: 15px !important;
+}
+
+.royalfolio-label {
+    display: inline-block !important;
+    margin-bottom: 10px !important;
+}
+
+#royalfolio-gallery-preview {
+    margin-bottom: 25px !important;
+}
+
+#royalfolio-sortable li {
+    display: inline-block !important;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+#royalfolio-sortable img {
+    max-width: 250px !important;
+    max-height: 250px !important;
+    padding: 5px;
+    background-color: #ffffff;
+    border: 1px solid #eeeeee;
+}

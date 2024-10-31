@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RoyalFolio\n"
+"POT-Creation-Date: 2014-10-30 13:22+0100\n"
+"PO-Revision-Date: 2014-10-30 13:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: ThemeRoyals <info@themeroyals.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_x;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../themeroyals-royalfolio/themeroyals-royalfolio.php:271
+#: ../themeroyals-royalfolio/includes/portfolio.php:120
+#: ../themeroyals-royalfolio/templates/metabox-details.php:20
+msgid "Client"
+msgstr ""
+
+#: ../themeroyals-royalfolio/themeroyals-royalfolio.php:274
+#: ../themeroyals-royalfolio/includes/portfolio.php:121
+#: ../themeroyals-royalfolio/templates/metabox-details.php:27
+msgid "Year"
+msgstr ""
+
+#: ../themeroyals-royalfolio/themeroyals-royalfolio.php:346
+msgid "This portfolio item has no images yet."
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:73
+msgid "Portfolio"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:74
+msgid "project"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:75
+#: ../themeroyals-royalfolio/includes/portfolio.php:76
+msgid "Add new project"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:77
+msgid "Edit project"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:78
+msgid "New project"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:79
+msgid "Show project"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:80
+msgid "Search project"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:81
+msgid "No hits"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:82
+msgid "No hits in trash"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:118
+msgid "ID"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:119
+msgid "Project"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:122
+msgid "Author"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:300
+msgid "Project details"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/portfolio.php:303
+msgid "Image gallery"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:57
+msgid "Front-end settings"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:65
+msgid "Back-end settings"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:81
+msgid "Max width"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:93
+msgid "Max height"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:105
+msgid "Apply basic CSS to images?"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:117
+msgid "Show client field?"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:129
+msgid "Show year field?"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:141
+msgid "Show role field?"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:163
+msgid ""
+"On this page you'll find a few simple settings that can be used to tweak "
+"both the appearance and functionality of this plugin."
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:163
+msgid ""
+"Don't worry! Most of these settings are very simple and straight forward and "
+"you should have no problem getting things up and running."
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:164
+#, php-format
+msgid ""
+"However, if you do need any help setting things up - or have questions - "
+"please check the %s"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:164
+#, php-format
+msgid "or the %s"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:179
+msgid ""
+"Please bare in mind that even though this plugin works with any WordPress "
+"theme, it was primarily developed for usage with our custom developed themes."
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:179
+msgid ""
+"It's primarily focused at theme developers, and that's why it's capabilities "
+"and overall styling is very limited."
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:193
+msgid ""
+"These settings apply to everything on the front-end. In other words: What "
+"your website visitors can see."
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:207
+msgid ""
+"These settings apply to everything on the back-end. In other words: Inside "
+"the WordPress administration interface."
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/settings.php:299
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/widget.php:17
+#: ../themeroyals-royalfolio/includes/widget.php:99
+msgid "Latest projects"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/widget.php:17
+msgid "Displays a list of your latest portfolio projects."
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/widget.php:117
+msgid "Title:"
+msgstr ""
+
+#: ../themeroyals-royalfolio/includes/widget.php:122
+msgid "Number of projects to show:"
+msgstr ""
+
+#: ../themeroyals-royalfolio/templates/metabox-details.php:34
+msgid "Your role"
+msgstr ""
+
+#: ../themeroyals-royalfolio/templates/metabox-gallery.php:23
+msgid "No images has been added yet"
+msgstr ""
+
+#: ../themeroyals-royalfolio/templates/metabox-gallery.php:39
+msgid "Add image(s)"
+msgstr ""
+
+#: ../themeroyals-royalfolio/templates/settings.php:3
+msgid "RoyalFolio Settings"
+msgstr ""
